@@ -13,7 +13,7 @@ Boolean Structured Convolutional Deep Learning Network (BSconvnet)
 Download the jupyter notebook
 
 Open using Google Colab
-![Network design](https://colab.research.google.com/)
+[Network design](https://colab.research.google.com/)
 
 Follow the steps in the notebook, run each block of codes starting from the top to the bottom
 
@@ -31,7 +31,7 @@ Follow the steps in the notebook, run each block of codes starting from the top 
 ![Test set embeddings](https://github.com/singkuangtan/BSconvnet/blob/main/test_embeddings.png)
 
 Leaderboard of model accuracies on CIFAR10 dataset
-![Leaderboard](https://paperswithcode.com/sota/image-classification-on-cifar-10)
+[Leaderboard](https://paperswithcode.com/sota/image-classification-on-cifar-10)
 
 ![Leaderboard_pic](https://github.com/singkuangtan/BSconvnet/blob/main/table.png)
 
