@@ -13,7 +13,7 @@ Boolean Structured Convolutional Deep Learning Network (BSconvnet)
 Download the jupyter notebook
 
 Open using Google Colab
-[Network design](https://colab.research.google.com/)
+[Colab](https://colab.research.google.com/)
 
 Follow the steps in the notebook, run each block of codes starting from the top to the bottom
 
