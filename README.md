@@ -24,11 +24,16 @@ Follow the steps in the notebook, run each block of codes starting from the top 
 
 # Experiment Results 
 
-![Experiment results](https://github.com/singkuangtan/BSonvnet/blob/main/train1.png)
-![Experiment results2](https://github.com/singkuangtan/BSonvnet/blob/main/train2.png)
+![Experiment results](https://github.com/singkuangtan/BSconvnet/blob/main/train1.png)
+![Experiment results2](https://github.com/singkuangtan/BSconvnet/blob/main/train2.png)
 
-![Training set embeddings](https://github.com/singkuangtan/BSonvnet/blob/main/train_embeddings.png)
-![Test set embeddings](https://github.com/singkuangtan/BSonvnet/blob/main/test_embeddings.png)
+![Training set embeddings](https://github.com/singkuangtan/BSconvnet/blob/main/train_embeddings.png)
+![Test set embeddings](https://github.com/singkuangtan/BSconvnet/blob/main/test_embeddings.png)
+
+Leaderboard of model accuracies on CIFAR10 dataset
+![Leaderboard](https://paperswithcode.com/sota/image-classification-on-cifar-10)
+
+![Leaderboard_pic](https://github.com/singkuangtan/BSconvnet/blob/main/table.png)
 
 # Links
 [BSnet paper link](https://vixra.org/abs/2212.0193)
