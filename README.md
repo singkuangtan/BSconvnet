@@ -14,6 +14,7 @@ Download the jupyter notebook
 
 Open using Google Colab
 [Colab](https://colab.research.google.com/)
+It can also be run using a jupyter notebook
 
 Follow the steps in the notebook, run each block of codes starting from the top to the bottom
 
