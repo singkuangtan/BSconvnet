@@ -7,6 +7,7 @@ Boolean Structured Convolutional Deep Learning Network (BSconvnet)
 - Use separable convolutional deep learning network, so it does not overfit
 - Achieved state of the art accuracy on CIFAR10 dataset 
 - Able to be trained on online using Google Colab with GPU
+- No data augmentations, no regularization such as weight decay and dropout 
 
 # How to Run
 
