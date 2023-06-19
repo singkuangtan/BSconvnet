@@ -42,6 +42,8 @@ Leaderboard of model accuracies on CIFAR10 dataset
 
 [BSautonet paper link](https://vixra.org/abs/2212.0208)
 
+[BSconvnet paper link](https://vixra.org/abs/2305.0166)
+
 [BSnet GitHub](https://github.com/singkuangtan/BSnet)
 
 [Discrete Markov Random Field Relaxation](https://vixra.org/abs/2112.0151)
