@@ -1,3 +1,6 @@
+# Newly added
+Pytorch BSconv layer class codes to substitute your ordinary conv layer. BSnet neurons can be substituted into convolution, fully connected, attention and transformer layers neurons.
+
 # BSconvnet
 Boolean Structured Convolutional Deep Learning Network (BSconvnet)
 
